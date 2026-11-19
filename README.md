@@ -33,3 +33,52 @@ Examples of Online Learning Platforms
 - SWAYAM
 Conclusion
 Online learning is a modern method of education that helps students learn easily from anywhere using the internet. It makes education flexible, simple, and accessible.
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Online Learning</title>
+    <style>
+        body {
+            font-family: Arial;
+            background-color: lightblue;
+            text-align: center;
+        }
+        h1 {
+            color: darkblue;
+        }
+        .box {
+            background: white;
+            padding: 20px;
+            margin: 30px;
+            border-radius: 10px;
+        }
+        button {
+            background: blue;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Welcome to Online Learning</h1>
+
+    <div class="box">
+        <h2>Learn From Anywhere</h2>
+        <p>
+            Online learning is a method of studying
+            through the internet.
+        </p>
+
+        <h3>Our Courses</h3>
+        <p>1. Computer Science</p>
+        <p>2. Programming</p>
+        <p>3. Artificial Intelligence</p>
+
+        <button>Start Learning</button>
+    </div>
+
+</body>
+</html>
